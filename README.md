@@ -2,7 +2,7 @@
 
 ## Step 1: I had to replace the nonsemantic elements with semantic elements
 
-## Step 2: I had to condense the unessecary extra lines in the css 
+## Step 2: I had to condense the unnecessary extra lines in the css 
 
 ## Step 3: I had to add alt attributes to my html
 
