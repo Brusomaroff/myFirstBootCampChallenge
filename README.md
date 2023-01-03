@@ -13,3 +13,4 @@
 ## link to the website here
 https://brusomaroff.github.io/myFirstBootCampChallenge/
 
+<img width="1512" alt="Screenshot 2023-01-02 at 8 32 55 PM" src="https://user-images.githubusercontent.com/120063382/210290504-81aef9d6-0918-4515-9525-ea44e5c5e65e.png">
